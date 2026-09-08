@@ -17,3 +17,6 @@ console.log(sample);
 // We can use ` mainly for embedding like using an expression and evaluate or other data type inside string
 let embed = `1+2 = ${1+2}, ${text}`;
 console.log(embed);
+
+let name = 'Arun'
+console.log(name)
